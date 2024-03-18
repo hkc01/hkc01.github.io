@@ -114,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Hakancan Ozturk is a AI enthusiast focusing on solving real world engineering problems.
+I am Hakancan Ozturk, an engineer dedicated to harnessing computational science and engineering to solve complex challenges. My expertise lies in mechanical engineering, machine learning, and high-performance computing. I strive to create innovative solutions that drive efficiency and sustainability in the technological and engineering landscapes.
 {style="text-align: justify;"}
