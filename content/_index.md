@@ -212,11 +212,9 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        To contact me, you can use the form below or text me over my socials.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: hakancan.ozturk23@gmail.com
       address:
         city: London
         postcode: SW7
@@ -224,7 +222,7 @@ sections:
         country_code: UK
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '51.499'
+        latitude: '51.4995'
         longitude: '-0.1778'
       # Automatically link email and phone or display as text?
       autolink: true
